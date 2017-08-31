@@ -1,0 +1,8 @@
+D:\Projects\SOCKETS\TCP Chat\SGSserverTCP\bin\Debug\Server.exe
+D:\Projects\SOCKETS\TCP Chat\SGSserverTCP\bin\Debug\Server.pdb
+D:\Projects\SOCKETS\TCP Chat\SGSserverTCP\obj\Debug\SGSserverTCP.csprojResolveAssemblyReference.cache
+D:\Projects\SOCKETS\TCP Chat\SGSserverTCP\obj\Debug\Server.SGSserverForm.resources
+D:\Projects\SOCKETS\TCP Chat\SGSserverTCP\obj\Debug\Server.Properties.Resources.resources
+D:\Projects\SOCKETS\TCP Chat\SGSserverTCP\obj\Debug\SGSserverTCP.csproj.GenerateResource.Cache
+D:\Projects\SOCKETS\TCP Chat\SGSserverTCP\obj\Debug\Server.exe
+D:\Projects\SOCKETS\TCP Chat\SGSserverTCP\obj\Debug\Server.pdb

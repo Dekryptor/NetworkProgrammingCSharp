@@ -1,0 +1,10 @@
+E:\VisualStudioProjects\MySocketProject\DbViaSocketServer\bin\Debug\DbViaSocketServer.exe.config
+E:\VisualStudioProjects\DbViaSocketServer\DbViaSocketServer\bin\Debug\DbViaSocketServer.exe
+E:\VisualStudioProjects\DbViaSocketServer\DbViaSocketServer\bin\Debug\DbViaSocketServer.exe.config
+E:\VisualStudioProjects\DbViaSocketServer\DbViaSocketServer\obj\Debug\DbViaSocketServer.frmServer.resources
+E:\VisualStudioProjects\DbViaSocketServer\DbViaSocketServer\obj\Debug\DbViaSocketServer.Properties.Resources.resources
+E:\VisualStudioProjects\DbViaSocketServer\DbViaSocketServer\obj\Debug\DbViaSocketServer.csproj.GenerateResource.Cache
+E:\VisualStudioProjects\DbViaSocketServer\DbViaSocketServer\obj\Debug\DbViaSocketServer.exe
+E:\VisualStudioProjects\DbViaSocketServer\DbViaSocketServer\obj\Debug\DbViaSocketServer.pdb
+E:\VisualStudioProjects\DbViaSocketServer\DbViaSocketServer\bin\Debug\DbViaSocketServer.pdb
+E:\VisualStudioProjects\DbViaSocketServer\DbViaSocketServer\obj\Debug\DbViaSocketServer.csprojResolveAssemblyReference.cache

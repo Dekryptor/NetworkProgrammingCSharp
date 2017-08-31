@@ -1,0 +1,10 @@
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ClientHost\bin\Debug\ProjectA.ClientHost.exe
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ClientHost\bin\Debug\ProjectA.ClientHost.pdb
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ClientHost\bin\Debug\Communication.Sockets.Core.dll
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ClientHost\bin\Debug\Communication.Sockets.Core.pdb
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ClientHost\obj\Debug\ProjectA.ClientHost.FrmClient.resources
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ClientHost\obj\Debug\ProjectA.ClientHost.Properties.Resources.resources
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ClientHost\obj\Debug\ProjectA.ClientHost.csproj.GenerateResource.Cache
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ClientHost\obj\Debug\ProjectA.ClientHost.exe
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ClientHost\obj\Debug\ProjectA.ClientHost.pdb
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ClientHost\obj\Debug\ProjectA.ClientHost.csprojResolveAssemblyReference.cache

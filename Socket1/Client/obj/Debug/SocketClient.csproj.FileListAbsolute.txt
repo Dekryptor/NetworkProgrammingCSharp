@@ -1,0 +1,9 @@
+E:\VisualStudioProjects\DbViaSocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+E:\VisualStudioProjects\DbViaSocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+E:\VisualStudioProjects\DbViaSocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.Cache
+E:\VisualStudioProjects\DbViaSocketClient\SocketClient\bin\Debug\SocketClient.exe
+E:\VisualStudioProjects\DbViaSocketClient\SocketClient\bin\Debug\SocketClient.pdb
+E:\VisualStudioProjects\DbViaSocketClient\SocketClient\obj\Debug\SocketClient.exe
+E:\VisualStudioProjects\DbViaSocketClient\SocketClient\obj\Debug\SocketClient.pdb
+E:\VisualStudioProjects\DbViaSocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\DbViaSocketClient\SocketClient\obj\Debug\SocketClient.SocketClient.resources

@@ -1,0 +1,5 @@
+D:\NetDone\NetworkProgramming\SocketCommunication\Core\bin\Debug\SocketCommunication.Core.dll
+D:\NetDone\NetworkProgramming\SocketCommunication\Core\bin\Debug\SocketCommunication.Core.pdb
+D:\NetDone\NetworkProgramming\SocketCommunication\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\SocketCommunication\Core\obj\Debug\SocketCommunication.Core.dll
+D:\NetDone\NetworkProgramming\SocketCommunication\Core\obj\Debug\SocketCommunication.Core.pdb

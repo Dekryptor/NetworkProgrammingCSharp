@@ -1,0 +1,7 @@
+E:\DoAn3-Source\Socket C#\Server\bin\Debug\SocketServer.exe
+E:\DoAn3-Source\Socket C#\Server\bin\Debug\SocketServer.pdb
+E:\DoAn3-Source\Socket C#\Server\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+E:\DoAn3-Source\Socket C#\Server\obj\Debug\SocketServer.Form1.resources
+E:\DoAn3-Source\Socket C#\Server\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+E:\DoAn3-Source\Socket C#\Server\obj\Debug\SocketServer.exe
+E:\DoAn3-Source\Socket C#\Server\obj\Debug\SocketServer.pdb

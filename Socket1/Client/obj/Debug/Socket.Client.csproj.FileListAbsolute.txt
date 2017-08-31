@@ -1,0 +1,3 @@
+D:\Projects\SOCKETS\DbViaSocketServer\Socket.Client\bin\Debug\SocketClient.exe.config
+D:\Projects\SOCKETS\DbViaSocketServer\Socket.Client\obj\Debug\SocketClient.exe
+D:\Projects\SOCKETS\DbViaSocketServer\Socket.Client\obj\Debug\SocketClient.pdb

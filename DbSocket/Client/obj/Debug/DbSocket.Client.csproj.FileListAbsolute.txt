@@ -1,0 +1,11 @@
+C:\Users\thaond\Dropbox\SOCKETS\DbSocket\DbSocket.Client\bin\Debug\SocketClient.exe.config
+C:\Users\thaond\Dropbox\SOCKETS\DbSocket\DbSocket.Client\bin\Debug\SocketClient.exe
+C:\Users\thaond\Dropbox\SOCKETS\DbSocket\DbSocket.Client\bin\Debug\SocketClient.pdb
+C:\Users\thaond\Dropbox\SOCKETS\DbSocket\DbSocket.Client\obj\Debug\DbSocket.Client.SocketClient.resources
+C:\Users\thaond\Dropbox\SOCKETS\DbSocket\DbSocket.Client\obj\Debug\DbSocket.Client.Properties.Resources.resources
+C:\Users\thaond\Dropbox\SOCKETS\DbSocket\DbSocket.Client\obj\Debug\DbSocket.Client.csproj.GenerateResource.Cache
+C:\Users\thaond\Dropbox\SOCKETS\DbSocket\DbSocket.Client\obj\Debug\SocketClient.exe
+C:\Users\thaond\Dropbox\SOCKETS\DbSocket\DbSocket.Client\obj\Debug\SocketClient.pdb
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\DbSocket.Client\bin\Debug\SocketClient.exe.config
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\DbSocket.Client\obj\Debug\SocketClient.exe
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\DbSocket.Client\obj\Debug\SocketClient.pdb

@@ -1,0 +1,12 @@
+D:\SOCKETS\DbViaSocket\DbViaSocketClient\bin\Debug\SocketClient.exe.config
+D:\SOCKETS\DbViaSocket\DbViaSocketClient\obj\Debug\SocketClient.exe
+D:\SOCKETS\DbViaSocket\DbViaSocketClient\obj\Debug\SocketClient.pdb
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketClient\bin\Debug\SocketClient.exe.config
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketClient\bin\Debug\SocketClient.exe
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketClient\bin\Debug\SocketClient.pdb
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketClient\obj\Debug\DbViaSocketClient.csprojResolveAssemblyReference.cache
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketClient\obj\Debug\SocketClient.SocketClient.resources
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketClient\obj\Debug\DbViaSocketClient.csproj.GenerateResource.Cache
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketClient\obj\Debug\SocketClient.exe
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketClient\obj\Debug\SocketClient.pdb

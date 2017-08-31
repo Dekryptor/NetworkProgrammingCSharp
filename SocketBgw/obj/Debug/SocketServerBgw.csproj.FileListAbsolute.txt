@@ -1,0 +1,9 @@
+E:\VisualStudioProjects\DbViaSocketServer\SocketServerBgw\bin\Debug\AnalysLogs.exe.config
+E:\VisualStudioProjects\DbViaSocketServer\SocketServerBgw\bin\Debug\AnalysLogs.exe
+E:\VisualStudioProjects\DbViaSocketServer\SocketServerBgw\bin\Debug\AnalysLogs.pdb
+E:\VisualStudioProjects\DbViaSocketServer\SocketServerBgw\obj\Debug\SocketServerBgw.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\DbViaSocketServer\SocketServerBgw\obj\Debug\AnalysLogs.frmAnalys.resources
+E:\VisualStudioProjects\DbViaSocketServer\SocketServerBgw\obj\Debug\AnalysLogs.Properties.Resources.resources
+E:\VisualStudioProjects\DbViaSocketServer\SocketServerBgw\obj\Debug\SocketServerBgw.csproj.GenerateResource.Cache
+E:\VisualStudioProjects\DbViaSocketServer\SocketServerBgw\obj\Debug\AnalysLogs.exe
+E:\VisualStudioProjects\DbViaSocketServer\SocketServerBgw\obj\Debug\AnalysLogs.pdb

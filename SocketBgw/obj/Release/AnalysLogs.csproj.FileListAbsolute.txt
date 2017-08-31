@@ -1,0 +1,11 @@
+E:\VisualStudioProjects\TraceAnalys 1.15.03.25\AnalysLogs\bin\Release\AnalysLogs.exe.config
+E:\VisualStudioProjects\TraceAnalys 1.15.03.25\AnalysLogs\bin\Release\AnalysLogs.exe
+E:\VisualStudioProjects\TraceAnalys 1.15.03.25\AnalysLogs\bin\Release\AnalysLogs.pdb
+E:\VisualStudioProjects\TraceAnalys 1.15.03.25\AnalysLogs\bin\Release\CreateExcelFile.dll
+E:\VisualStudioProjects\TraceAnalys 1.15.03.25\AnalysLogs\bin\Release\DocumentFormat.OpenXml.dll
+E:\VisualStudioProjects\TraceAnalys 1.15.03.25\AnalysLogs\obj\Release\AnalysLogs.csprojResolveAssemblyReference.cache
+E:\VisualStudioProjects\TraceAnalys 1.15.03.25\AnalysLogs\obj\Release\AnalysLogs.frmAnalys.resources
+E:\VisualStudioProjects\TraceAnalys 1.15.03.25\AnalysLogs\obj\Release\AnalysLogs.Properties.Resources.resources
+E:\VisualStudioProjects\TraceAnalys 1.15.03.25\AnalysLogs\obj\Release\AnalysLogs.csproj.GenerateResource.Cache
+E:\VisualStudioProjects\TraceAnalys 1.15.03.25\AnalysLogs\obj\Release\AnalysLogs.exe
+E:\VisualStudioProjects\TraceAnalys 1.15.03.25\AnalysLogs\obj\Release\AnalysLogs.pdb

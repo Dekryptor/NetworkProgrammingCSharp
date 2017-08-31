@@ -1,0 +1,9 @@
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Server\bin\Debug\Server.exe.config
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Server\bin\Debug\Server.exe
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Server\bin\Debug\Server.pdb
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Server\obj\x86\Debug\Server.Server.resources
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Server\obj\x86\Debug\Server.Properties.Resources.resources
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Server\obj\x86\Debug\Server.exe
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Server\obj\x86\Debug\Server.pdb

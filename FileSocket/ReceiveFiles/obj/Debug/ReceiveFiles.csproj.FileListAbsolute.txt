@@ -1,0 +1,15 @@
+E:\DoAn3-Source\FileSocket\ReceiveFiles\ReceiveFiles\bin\Debug\ReceiveFiles.exe
+E:\DoAn3-Source\FileSocket\ReceiveFiles\ReceiveFiles\bin\Debug\ReceiveFiles.pdb
+E:\DoAn3-Source\FileSocket\ReceiveFiles\ReceiveFiles\obj\Debug\ReceiveFiles.Form1.resources
+E:\DoAn3-Source\FileSocket\ReceiveFiles\ReceiveFiles\obj\Debug\ReceiveFiles.Properties.Resources.resources
+E:\DoAn3-Source\FileSocket\ReceiveFiles\ReceiveFiles\obj\Debug\ReceiveFiles.csproj.GenerateResource.Cache
+E:\DoAn3-Source\FileSocket\ReceiveFiles\ReceiveFiles\obj\Debug\ReceiveFiles.exe
+E:\DoAn3-Source\FileSocket\ReceiveFiles\ReceiveFiles\obj\Debug\ReceiveFiles.pdb
+D:\NetDone\NetworkProgramming\FileSocket\ReceiveFiles\bin\Debug\ReceiveFiles.exe
+D:\NetDone\NetworkProgramming\FileSocket\ReceiveFiles\bin\Debug\ReceiveFiles.pdb
+D:\NetDone\NetworkProgramming\FileSocket\ReceiveFiles\obj\Debug\ReceiveFiles.Form1.resources
+D:\NetDone\NetworkProgramming\FileSocket\ReceiveFiles\obj\Debug\ReceiveFiles.Properties.Resources.resources
+D:\NetDone\NetworkProgramming\FileSocket\ReceiveFiles\obj\Debug\ReceiveFiles.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\FileSocket\ReceiveFiles\obj\Debug\ReceiveFiles.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\FileSocket\ReceiveFiles\obj\Debug\ReceiveFiles.exe
+D:\NetDone\NetworkProgramming\FileSocket\ReceiveFiles\obj\Debug\ReceiveFiles.pdb

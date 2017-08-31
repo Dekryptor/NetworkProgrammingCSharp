@@ -1,0 +1,8 @@
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Service\bin\Debug\TCPService.exe
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Service\bin\Debug\TCPService.pdb
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Service\obj\Debug\TCP.Service.csprojResolveAssemblyReference.cache
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Service\obj\Debug\TCPService.TCPInstaller.resources
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Service\obj\Debug\TCPService.TCPService.resources
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Service\obj\Debug\TCP.Service.csproj.GenerateResource.Cache
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Service\obj\Debug\TCPService.exe
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Service\obj\Debug\TCPService.pdb

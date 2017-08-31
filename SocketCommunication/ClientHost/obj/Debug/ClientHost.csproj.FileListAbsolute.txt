@@ -1,0 +1,4 @@
+D:\NetDone\NetworkProgramming\SocketCommunication\ClientHost\obj\Debug\ClientHost.FrmClient.resources
+D:\NetDone\NetworkProgramming\SocketCommunication\ClientHost\obj\Debug\ClientHost.Properties.Resources.resources
+D:\NetDone\NetworkProgramming\SocketCommunication\ClientHost\obj\Debug\ClientHost.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\SocketCommunication\ClientHost\obj\Debug\ClientHost.csproj.CoreCompileInputs.cache

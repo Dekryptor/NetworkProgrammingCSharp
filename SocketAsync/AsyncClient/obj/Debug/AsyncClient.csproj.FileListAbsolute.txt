@@ -1,0 +1,7 @@
+E:\DoAn3-Source\Socket_Asyn\Async_client\bin\Debug\AsyncClient.exe
+E:\DoAn3-Source\Socket_Asyn\Async_client\bin\Debug\AsyncClient.pdb
+E:\DoAn3-Source\Socket_Asyn\Async_client\obj\Debug\AsyncClient.Form1.resources
+E:\DoAn3-Source\Socket_Asyn\Async_client\obj\Debug\AsyncClient.csproj.GenerateResource.Cache
+E:\DoAn3-Source\Socket_Asyn\Async_client\obj\Debug\AsyncClient.exe
+E:\DoAn3-Source\Socket_Asyn\Async_client\obj\Debug\AsyncClient.pdb
+E:\DoAn3-Source\Socket_Asyn\Async_client\obj\Debug\AsyncClient.csprojResolveAssemblyReference.cache

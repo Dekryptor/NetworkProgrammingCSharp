@@ -1,0 +1,9 @@
+C:\Users\thaond\Dropbox\SOCKETS\SocketsMultipleClients\SocketCore\bin\Debug\Communication.Sockets.Core.dll
+C:\Users\thaond\Dropbox\SOCKETS\SocketsMultipleClients\SocketCore\bin\Debug\Communication.Sockets.Core.pdb
+C:\Users\thaond\Dropbox\SOCKETS\SocketsMultipleClients\SocketCore\obj\Debug\SocketCore.csprojResolveAssemblyReference.cache
+C:\Users\thaond\Dropbox\SOCKETS\SocketsMultipleClients\SocketCore\obj\Debug\Communication.Sockets.Core.dll
+C:\Users\thaond\Dropbox\SOCKETS\SocketsMultipleClients\SocketCore\obj\Debug\Communication.Sockets.Core.pdb
+D:\Projects\SocketsMultipleClients\SocketCore\bin\Debug\Communication.Sockets.Core.dll
+D:\Projects\SocketsMultipleClients\SocketCore\bin\Debug\Communication.Sockets.Core.pdb
+D:\Projects\SocketsMultipleClients\SocketCore\obj\Debug\Communication.Sockets.Core.dll
+D:\Projects\SocketsMultipleClients\SocketCore\obj\Debug\Communication.Sockets.Core.pdb

@@ -1,0 +1,3 @@
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TransferFile.Server\bin\Debug\Server.exe.config
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TransferFile.Server\obj\x86\Debug\Server.exe
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TransferFile.Server\obj\x86\Debug\Server.pdb

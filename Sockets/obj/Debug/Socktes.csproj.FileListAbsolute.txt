@@ -1,0 +1,8 @@
+D:\Projects\SOCKETS\Socktes\bin\Debug\Socktes.dll
+D:\Projects\SOCKETS\Socktes\bin\Debug\Socktes.pdb
+D:\Projects\SOCKETS\Socktes\obj\Debug\Socktes.csprojResolveAssemblyReference.cache
+D:\Projects\SOCKETS\Socktes\obj\Debug\Socktes.ConnectSocket.resources
+D:\Projects\SOCKETS\Socktes\obj\Debug\Socktes.ParserSocket.resources
+D:\Projects\SOCKETS\Socktes\obj\Debug\Socktes.csproj.GenerateResource.Cache
+D:\Projects\SOCKETS\Socktes\obj\Debug\Socktes.dll
+D:\Projects\SOCKETS\Socktes\obj\Debug\Socktes.pdb

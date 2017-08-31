@@ -1,0 +1,10 @@
+D:\NetDone\NetworkProgramming\TCP\SGSclient\bin\Debug\SGSclient.exe
+D:\NetDone\NetworkProgramming\TCP\SGSclient\bin\Debug\SGSclient.pdb
+D:\NetDone\NetworkProgramming\TCP\SGSclient\obj\Debug\SGSclient.SGSClient.resources
+D:\NetDone\NetworkProgramming\TCP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+D:\NetDone\NetworkProgramming\TCP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+D:\NetDone\NetworkProgramming\TCP\SGSclient\obj\Debug\SGSclient.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\TCP\SGSclient\obj\Debug\SGSclient.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\TCP\SGSclient\obj\Debug\SGSclient.exe
+D:\NetDone\NetworkProgramming\TCP\SGSclient\obj\Debug\SGSclient.pdb
+D:\NetDone\NetworkProgramming\TCP\SGSclient\bin\Debug\SGSclient.exe.config

@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommandServer</name>
+    </assembly>
+    <members>
+        <member name="T:Command.Server.ClientManager">
+            <summary>
+            The class that contains some methods and properties to manage the remote clients.
+            </summary>
+        </member>
+        <member name="P:Command.Server.ClientManager.IP">
+            <summary>
+            Gets the IP address of connected remote client.This is 'IPAddress.None' if the client is not connected.
+            </summary>
+        </member>
+        <member name="P:Command.Server.ClientManager.Port">
+            <summary>
+            Gets the port number of connected remote client.This is -1 if the client is not connected.
+            </summary>
+        </member>
+        <member name="P:Command.Server.ClientManager.Connected">
+            <summary>
+            [Gets] The value that specifies the remote client is connected to this server or not.
+            </summary>
+        </member>
+        <member name="P:Command.Server.ClientManager.ClientName">
+            <summary>
+            The name of remote client.
+            </summary>
+        </member>
+        <member name="M:Command.Server.ClientManager.#ctor(System.Net.Sockets.Socket)">
+            <summary>
+            Creates an instance of ClientManager class to comunicate with remote clients.
+            </summary>
+            <param name="clientSocket">The socket of ClientManager.</param>
+        </member>
+        <member name="M:Command.Server.ClientManager.SendCommand(Command.Server.Command)">
+            <summary>
+            Sends a command to the remote client if the connection is alive.
+            </summary>
+            <param name="cmd">The command to send.</param>
+        </member>
+        <member name="M:Command.Server.ClientManager.Disconnect">
+            <summary>
+            Disconnect the current client manager from the remote client and returns true if the client had been disconnected from the server.
+            </summary>
+            <returns>True if the remote client had been disconnected from the server,otherwise false.</returns>
+        </member>
+        <member name="E:Command.Server.ClientManager.CommandReceived">
+            <summary>
+            Occurs when a command received from a remote client.
+            </summary>
+        </member>
+        <member name="M:Command.Server.ClientManager.OnCommandReceived(Command.Server.CommandEventArgs)">
+            <summary>
+            Occurs when a command received from a remote client.
+            </summary>
+            <param name="e">Received command.</param>
+        </member>
+        <member name="E:Command.Server.ClientManager.CommandSent">
+            <summary>
+            Occurs when a command had been sent to the remote client successfully.
+            </summary>
+        </member>
+        <member name="M:Command.Server.ClientManager.OnCommandSent(System.EventArgs)">
+            <summary>
+            Occurs when a command had been sent to the remote client successfully.
+            </summary>
+            <param name="e">The sent command.</param>
+        </member>
+        <member name="E:Command.Server.ClientManager.CommandFailed">
+            <summary>
+            Occurs when a command sending action had been failed.This is because disconnection or sending exception.
+            </summary>
+        </member>
+        <member name="M:Command.Server.ClientManager.OnCommandFailed(System.EventArgs)">
+            <summary>
+            Occurs when a command sending action had been failed.This is because disconnection or sending exception.
+            </summary>
+            <param name="e">The sent command.</param>
+        </member>
+        <member name="E:Command.Server.ClientManager.Disconnected">
+            <summary>
+            Occurs when a client disconnected from this server.
+            </summary>
+        </member>
+        <member name="M:Command.Server.ClientManager.OnDisconnected(Command.Server.ClientEventArgs)">
+            <summary>
+            Occurs when a client disconnected from this server.
+            </summary>
+            <param name="e">Client information.</param>
+        </member>
+        <member name="T:Command.Server.Command">
+            <summary>
+            The command class.
+            </summary>
+        </member>
+        <member name="P:Command.Server.Command.CommandType">
+            <summary>
+            The type of command to send.If you wanna use the Message command type,create a Message class instead of command.
+            </summary>
+        </member>
+        <member name="P:Command.Server.Command.SenderIP">
+            <summary>
+            [Gets/Sets] The IP address of command sender.
+            </summary>
+        </member>
+        <member name="P:Command.Server.Command.SenderName">
+            <summary>
+            [Gets/Sets] The name of command sender.
+            </summary>
+        </member>
+        <member name="P:Command.Server.Command.Target">
+            <summary>
+            [Gets/Sets] The targer machine that will receive the command.Set this property to IPAddress.Broadcast if you want send the command to all connected clients.
+            </summary>
+        </member>
+        <member name="P:Command.Server.Command.MetaData">
+            <summary>
+            The body of the command.This string is different in various commands.
+            <para>Message : The text of the message.</para>
+            <para>ClientLoginInform,SendClientList : "RemoteClientIP:RemoteClientName".</para>
+            <para>***WithTimer : The interval of timer in miliseconds..The default value is 60000 equal to 1 min.</para>
+            <para>IsNameExists : 'True' or 'False'</para>
+            <para>Otherwise pass the "" or null.</para>
+            </summary>
+        </member>
+        <member name="M:Command.Server.Command.#ctor(Command.Server.CommandType,System.Net.IPAddress,System.String)">
+            <summary>
+            Creates an instance of command object to send over the network.
+            </summary>
+            <param name="type">The type of command.If you wanna use the Message command type,create a Message class instead of command.</param>
+            <param name="targetMachine">The targer machine that will receive the command.Set this property to IPAddress.Broadcast if you want send the command to all connected clients.</param>
+            <param name="metaData">
+            The body of the command.This string is different in various commands.
+            <para>Message : The text of the message.</para>
+            <para>ClientLoginInform,SendClientList : "RemoteClientIP:RemoteClientName".</para>
+            <para>***WithTimer : The interval of timer in miliseconds..The default value is 60000 equal to 1 min.</para>
+            <para>IsNameExists : 'True' or 'False'</para>
+            <para>Otherwise pass the "" or null or use the next overriden constructor.</para>
+            </param>
+        </member>
+        <member name="M:Command.Server.Command.#ctor(Command.Server.CommandType,System.Net.IPAddress)">
+            <summary>
+            Creates an instance of command object to send over the network.
+            </summary>
+            <param name="type">The type of command.If you wanna use the Message command type,create a Message class instead of command.</param>
+            <param name="targetMachine">The targer machine that will receive the command.Set this property to IPAddress.Broadcast if you want send the command to all connected clients.</param>
+        </member>
+        <member name="T:Command.Server.CommandType">
+            <summary>
+            The type of commands that you can sent to the clients.(Note : These are just some comman types.You should do the desired actions when a command received to the client yourself.)
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.UserExit">
+            <summary>
+            Force the target to logoff from the application without prompt.Pass null or "" as command's Metadata.
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.UserExitWithTimer">
+            <summary>
+            Force the target to logoff from the application with prompt.Pass the timer interval of logoff action as command's Metadata in miliseconds.For example "20000".
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.PCLock">
+            <summary>
+            Force the target PC to LOCK without prompt.Pass null or "" as command's Metadata.
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.PCLockWithTimer">
+            <summary>
+            Force the target PC to LOCK with prompt.Pass the timer interval of LOCK action as command's Metadata in miliseconds.For example "20000".
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.PCRestart">
+            <summary>
+            Force the target PC to RESTART without prompt.Pass null or "" as command's Metadata.
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.PCRestartWithTimer">
+            <summary>
+            Force the target PC to RESTART with prompt.Pass the timer interval of RESTART action as command's Metadata in miliseconds.For example "20000".
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.PCLogOFF">
+            <summary>
+            Force the target PC to LOGOFF without prompt.Pass null or "" as command's Metadata.
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.PCLogOFFWithTimer">
+            <summary>
+            Force the target PC to LOGOFF with prompt.Pass the timer interval of LOGOFF action as command's Metadata in miliseconds.For example "20000".
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.PCShutDown">
+            <summary>
+            Force the target PC to SHUTDOWN without prompt.Pass null or "" as command's Metadata.
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.PCShutDownWithTimer">
+            <summary>
+            Force the target PC to SHUTDOWN with prompt.Pass the timer interval of SHUTDOWN action as command's Metadata in miliseconds.For example "20000".
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.Message">
+            <summary>
+            Send a text message to the server.Pass the body of text message as command's Metadata.
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.ClientLoginInform">
+            <summary>
+            This command will sent to all clients when an specific client is had been logged in to the server.The metadata of this command is in this format : "RemoteClientIP:RemoteClientName"
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.ClientLogOffInform">
+            <summary>
+            This command will sent to all clients when an specific client is had been logged off from the server.
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.IsNameExists">
+            <summary>
+            This command will send to the new connected client with MetaData of 'True' or 'False' in replay to the same command that client did sent to the server as a question.
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.SendClientList">
+            <summary>
+            This command will send to the new connected client with MetaData in "RemoteClientIP:RemoteClientName" format in replay to the same command that client did sent to the server as a request.
+            </summary>
+        </member>
+        <member name="F:Command.Server.CommandType.FreeCommand">
+            <summary>
+            This is a free command that you can sent to the clients.
+            </summary>
+        </member>
+        <member name="T:Command.Server.CommandReceivedEventHandler">
+            <summary>
+            Occurs when a command received from a client.
+            </summary>
+            <param name="sender">Sender.</param>
+            <param name="e">The received command object.</param>
+        </member>
+        <member name="T:Command.Server.CommandSentEventHandler">
+            <summary>
+            Occurs when a command had been sent to the remote client successfully.
+            </summary>
+            <param name="sender">Sender.</param>
+            <param name="e">EventArgs.</param>
+        </member>
+        <member name="T:Command.Server.CommandSendingFailedEventHandler">
+            <summary>
+            Occurs when a command sending action had been failed.This is because disconnection or sending exception.
+            </summary>
+            <param name="sender">Sender.</param>
+            <param name="e">EventArgs.</param>
+        </member>
+        <member name="T:Command.Server.CommandEventArgs">
+            <summary>
+            The class that contains information about received command.
+            </summary>
+        </member>
+        <member name="P:Command.Server.CommandEventArgs.Command">
+            <summary>
+            The received command.
+            </summary>
+        </member>
+        <member name="M:Command.Server.CommandEventArgs.#ctor(Command.Server.Command)">
+            <summary>
+            Creates an instance of CommandEventArgs class.
+            </summary>
+            <param name="cmd">The received command.</param>
+        </member>
+        <member name="T:Command.Server.DisconnectedEventHandler">
+            <summary>
+            Occurs when a remote client had been disconnected from the server.
+            </summary>
+            <param name="sender">Sender.</param>
+            <param name="e">The client information.</param>
+        </member>
+        <member name="T:Command.Server.ClientEventArgs">
+            <summary>
+            Client event args.
+            </summary>
+        </member>
+        <member name="P:Command.Server.ClientEventArgs.IP">
+            <summary>
+            The ip address of remote client.
+            </summary>
+        </member>
+        <member name="P:Command.Server.ClientEventArgs.Port">
+            <summary>
+            The port of remote client.
+            </summary>
+        </member>
+        <member name="M:Command.Server.ClientEventArgs.#ctor(System.Net.Sockets.Socket)">
+            <summary>
+            Creates an instance of ClientEventArgs class.
+            </summary>
+            <param name="clientManagerSocket">The socket of server side socket that comunicates with the remote client.</param>
+        </member>
+    </members>
+</doc>

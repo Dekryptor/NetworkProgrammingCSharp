@@ -1,0 +1,12 @@
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\bin\Debug\log4net.dll
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\obj\Debug\ProjectA.ServerHost.csprojResolveAssemblyReference.cache
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\obj\Debug\ProjectA.ServerHost.FrmServer.resources
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\obj\Debug\ProjectA.ServerHost.csproj.GenerateResource.Cache
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+D:\Projects\SOCKETS\Sockets Multiple Clients\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb

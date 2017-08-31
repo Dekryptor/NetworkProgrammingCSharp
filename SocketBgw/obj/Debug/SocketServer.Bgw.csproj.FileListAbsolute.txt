@@ -1,0 +1,3 @@
+D:\Projects\SOCKETS\DbViaSocketServer\SocketServer.Bgw\bin\Debug\AnalysLogs.exe.config
+D:\Projects\SOCKETS\DbViaSocketServer\SocketServer.Bgw\obj\Debug\AnalysLogs.exe
+D:\Projects\SOCKETS\DbViaSocketServer\SocketServer.Bgw\obj\Debug\AnalysLogs.pdb

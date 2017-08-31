@@ -1,0 +1,7 @@
+D:\NetDone\NetworkProgramming\Command\Server\bin\Debug\CommandServer.XML
+D:\NetDone\NetworkProgramming\Command\Server\bin\Debug\CommandServer.dll
+D:\NetDone\NetworkProgramming\Command\Server\bin\Debug\CommandServer.pdb
+D:\NetDone\NetworkProgramming\Command\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\NetDone\NetworkProgramming\Command\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\Command\Server\obj\Debug\CommandServer.dll
+D:\NetDone\NetworkProgramming\Command\Server\obj\Debug\CommandServer.pdb

@@ -1,0 +1,3 @@
+C:\Users\thaond\Dropbox\SOCKETS\DbSocket\DbViaSocketClient1.3\bin\Debug\SocketClient.exe.config
+C:\Users\thaond\Dropbox\SOCKETS\DbSocket\DbViaSocketClient1.3\obj\Debug\SocketClient.exe
+C:\Users\thaond\Dropbox\SOCKETS\DbSocket\DbViaSocketClient1.3\obj\Debug\SocketClient.pdb

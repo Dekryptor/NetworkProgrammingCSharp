@@ -1,0 +1,7 @@
+D:\NetDone\NetworkProgramming\SocketConsole\bin\Debug\SocketConsole.exe
+D:\NetDone\NetworkProgramming\SocketConsole\bin\Debug\SocketConsole.pdb
+D:\NetDone\NetworkProgramming\SocketConsole\obj\Debug\SocketConsole.csprojResolveAssemblyReference.cache
+D:\NetDone\NetworkProgramming\SocketConsole\obj\Debug\SocketConsole.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\SocketConsole\obj\Debug\SocketConsole.exe
+D:\NetDone\NetworkProgramming\SocketConsole\obj\Debug\SocketConsole.pdb
+D:\NetDone\NetworkProgramming\SocketConsole\bin\Debug\SocketConsole.exe.config

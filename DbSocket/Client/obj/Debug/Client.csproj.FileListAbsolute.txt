@@ -1,0 +1,10 @@
+D:\NetDone\NetworkProgramming\DbSocket\Client\bin\Debug\SocketClient.exe.config
+D:\NetDone\NetworkProgramming\DbSocket\Client\bin\Debug\SocketClient.exe
+D:\NetDone\NetworkProgramming\DbSocket\Client\bin\Debug\SocketClient.pdb
+D:\NetDone\NetworkProgramming\DbSocket\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\NetDone\NetworkProgramming\DbSocket\Client\obj\Debug\DbSocket.Client.SocketClient.resources
+D:\NetDone\NetworkProgramming\DbSocket\Client\obj\Debug\DbSocket.Client.Properties.Resources.resources
+D:\NetDone\NetworkProgramming\DbSocket\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\DbSocket\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\DbSocket\Client\obj\Debug\SocketClient.exe
+D:\NetDone\NetworkProgramming\DbSocket\Client\obj\Debug\SocketClient.pdb

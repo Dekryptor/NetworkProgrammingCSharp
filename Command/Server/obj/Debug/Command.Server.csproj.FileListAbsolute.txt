@@ -1,0 +1,5 @@
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Command.Server\bin\Debug\CommandServer.XML
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Command.Server\bin\Debug\CommandServer.dll
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Command.Server\bin\Debug\CommandServer.pdb
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Command.Server\obj\Debug\CommandServer.dll
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Command.Server\obj\Debug\CommandServer.pdb

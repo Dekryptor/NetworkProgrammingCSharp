@@ -1,0 +1,8 @@
+D:\Projects\SOCKETS\TCP Chat\SGSclientTCP\bin\Debug\SGSclient.exe
+D:\Projects\SOCKETS\TCP Chat\SGSclientTCP\bin\Debug\SGSclient.pdb
+D:\Projects\SOCKETS\TCP Chat\SGSclientTCP\obj\Debug\SGSclient.SGSClient.resources
+D:\Projects\SOCKETS\TCP Chat\SGSclientTCP\obj\Debug\SGSclient.LoginForm.resources
+D:\Projects\SOCKETS\TCP Chat\SGSclientTCP\obj\Debug\SGSclient.Properties.Resources.resources
+D:\Projects\SOCKETS\TCP Chat\SGSclientTCP\obj\Debug\SGSclientTCP.csproj.GenerateResource.Cache
+D:\Projects\SOCKETS\TCP Chat\SGSclientTCP\obj\Debug\SGSclient.exe
+D:\Projects\SOCKETS\TCP Chat\SGSclientTCP\obj\Debug\SGSclient.pdb

@@ -1,0 +1,8 @@
+E:\VisualStudioProjects\DbViaSocketClient\DbViaSocketClient\bin\Debug\DbViaSocketClient.exe.config
+E:\VisualStudioProjects\DbViaSocketClient\DbViaSocketClient\bin\Debug\DbViaSocketClient.exe
+E:\VisualStudioProjects\DbViaSocketClient\DbViaSocketClient\bin\Debug\DbViaSocketClient.pdb
+E:\VisualStudioProjects\DbViaSocketClient\DbViaSocketClient\obj\Debug\DbViaSocketClient.frmClient.resources
+E:\VisualStudioProjects\DbViaSocketClient\DbViaSocketClient\obj\Debug\DbViaSocketClient.Properties.Resources.resources
+E:\VisualStudioProjects\DbViaSocketClient\DbViaSocketClient\obj\Debug\DbViaSocketClient.csproj.GenerateResource.Cache
+E:\VisualStudioProjects\DbViaSocketClient\DbViaSocketClient\obj\Debug\DbViaSocketClient.exe
+E:\VisualStudioProjects\DbViaSocketClient\DbViaSocketClient\obj\Debug\DbViaSocketClient.pdb

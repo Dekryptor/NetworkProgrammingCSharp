@@ -1,0 +1,11 @@
+E:\VisualStudioProjects\SocketSamples\Synchronous.Client\bin\Debug\Synchronous.Client.exe.config
+E:\VisualStudioProjects\SocketSamples\Synchronous.Client\bin\Debug\Synchronous.Client.exe
+E:\VisualStudioProjects\SocketSamples\Synchronous.Client\bin\Debug\Synchronous.Client.pdb
+E:\VisualStudioProjects\SocketSamples\Synchronous.Client\obj\Debug\Synchronous.Client.exe
+E:\VisualStudioProjects\SocketSamples\Synchronous.Client\obj\Debug\Synchronous.Client.pdb
+E:\VisualStudioProjects\DbViaSocketClient\Synchronous.Client\bin\Debug\Synchronous.Client.exe.config
+E:\VisualStudioProjects\DbViaSocketClient\Synchronous.Client\obj\Debug\Synchronous.Client.exe
+E:\VisualStudioProjects\DbViaSocketClient\Synchronous.Client\obj\Debug\Synchronous.Client.pdb
+D:\Projects\SOCKETS\DbViaSocketServer\Synchronous.Client\bin\Debug\Synchronous.Client.exe.config
+D:\Projects\SOCKETS\DbViaSocketServer\Synchronous.Client\obj\Debug\Synchronous.Client.exe
+D:\Projects\SOCKETS\DbViaSocketServer\Synchronous.Client\obj\Debug\Synchronous.Client.pdb

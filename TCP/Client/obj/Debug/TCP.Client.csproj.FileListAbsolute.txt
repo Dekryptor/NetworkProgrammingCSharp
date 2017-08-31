@@ -1,0 +1,5 @@
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Client\bin\Debug\TCPClient.exe
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Client\bin\Debug\TCPClient.pdb
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Client\obj\Debug\TCP.Client.csprojResolveAssemblyReference.cache
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Client\obj\Debug\TCPClient.exe
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\TCP.Client\obj\Debug\TCPClient.pdb

@@ -1,0 +1,10 @@
+D:\NetDone\NetworkProgramming\TCP\Service\bin\Debug\TCPService.exe
+D:\NetDone\NetworkProgramming\TCP\Service\bin\Debug\TCPService.pdb
+D:\NetDone\NetworkProgramming\TCP\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\NetDone\NetworkProgramming\TCP\Service\obj\Debug\TCPService.TCPInstaller.resources
+D:\NetDone\NetworkProgramming\TCP\Service\obj\Debug\TCPService.TCPService.resources
+D:\NetDone\NetworkProgramming\TCP\Service\obj\Debug\Service.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\TCP\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\TCP\Service\obj\Debug\TCPService.exe
+D:\NetDone\NetworkProgramming\TCP\Service\obj\Debug\TCPService.pdb
+D:\NetDone\NetworkProgramming\TCP\Service\bin\Debug\TCPService.exe.config

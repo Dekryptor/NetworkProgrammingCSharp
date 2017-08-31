@@ -1,0 +1,14 @@
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Client\bin\Debug\Client.exe.config
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Client\bin\Debug\Client.exe
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Client\bin\Debug\Client.pdb
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Client\obj\x86\Debug\Client.Client.resources
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Client\obj\x86\Debug\Client.exe
+D:\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Client\obj\x86\Debug\Client.pdb
+D:\Projects\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Client\bin\Debug\Client.exe.config
+D:\Projects\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Client\obj\x86\Debug\Client.exe
+D:\Projects\SOCKETS\CSSocketTransferFile\CSSocketTransferFile\Client\obj\x86\Debug\Client.pdb
+C:\Users\thaond\Dropbox\SOCKETS\SocketTransferFile\CSSocketTransferFile\Client\bin\Debug\Client.exe.config
+C:\Users\thaond\Dropbox\SOCKETS\SocketTransferFile\CSSocketTransferFile\Client\obj\x86\Debug\Client.exe
+C:\Users\thaond\Dropbox\SOCKETS\SocketTransferFile\CSSocketTransferFile\Client\obj\x86\Debug\Client.pdb

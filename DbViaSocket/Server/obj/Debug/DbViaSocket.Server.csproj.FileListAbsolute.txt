@@ -1,0 +1,3 @@
+D:\Projects\SOCKETS\DbViaSocketServer\DbViaSocket.Server\bin\Debug\DbViaSocketServer.exe.config
+D:\Projects\SOCKETS\DbViaSocketServer\DbViaSocket.Server\obj\Debug\DbViaSocketServer.exe
+D:\Projects\SOCKETS\DbViaSocketServer\DbViaSocket.Server\obj\Debug\DbViaSocketServer.pdb

@@ -1,0 +1,6 @@
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Command.Client\bin\Debug\CommandClient.XML
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Command.Client\bin\Debug\CommandClient.dll
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Command.Client\bin\Debug\CommandClient.pdb
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Command.Client\obj\Debug\Command.Client.csprojResolveAssemblyReference.cache
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Command.Client\obj\Debug\CommandClient.dll
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Command.Client\obj\Debug\CommandClient.pdb

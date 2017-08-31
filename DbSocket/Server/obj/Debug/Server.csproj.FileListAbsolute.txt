@@ -1,0 +1,9 @@
+D:\NetDone\NetworkProgramming\DbSocket\Server\obj\Debug\DbSocket.Server.SocketServer.resources
+D:\NetDone\NetworkProgramming\DbSocket\Server\obj\Debug\DbSocket.Server.Properties.Resources.resources
+D:\NetDone\NetworkProgramming\DbSocket\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\DbSocket\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\DbSocket\Server\bin\Debug\DbSocket.Server.exe.config
+D:\NetDone\NetworkProgramming\DbSocket\Server\bin\Debug\DbSocket.Server.exe
+D:\NetDone\NetworkProgramming\DbSocket\Server\bin\Debug\DbSocket.Server.pdb
+D:\NetDone\NetworkProgramming\DbSocket\Server\obj\Debug\DbSocket.Server.exe
+D:\NetDone\NetworkProgramming\DbSocket\Server\obj\Debug\DbSocket.Server.pdb

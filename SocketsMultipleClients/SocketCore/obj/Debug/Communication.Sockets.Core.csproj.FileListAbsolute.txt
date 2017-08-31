@@ -1,0 +1,4 @@
+D:\Projects\SOCKETS\Sockets Multiple Clients\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+D:\Projects\SOCKETS\Sockets Multiple Clients\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+D:\Projects\SOCKETS\Sockets Multiple Clients\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+D:\Projects\SOCKETS\Sockets Multiple Clients\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb

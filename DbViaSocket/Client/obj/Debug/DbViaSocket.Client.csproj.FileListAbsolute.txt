@@ -1,0 +1,6 @@
+D:\Projects\SOCKETS\DbViaSocketServer\DbViaSocket.Client\bin\Debug\DbViaSocketClient.exe.config
+D:\Projects\SOCKETS\DbViaSocketServer\DbViaSocket.Client\obj\Debug\DbViaSocketClient.exe
+D:\Projects\SOCKETS\DbViaSocketServer\DbViaSocket.Client\obj\Debug\DbViaSocketClient.pdb
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\DbViaSocket.Client\bin\Debug\DbViaSocketClient.exe.config
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\DbViaSocket.Client\obj\Debug\DbViaSocketClient.exe
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\DbViaSocket.Client\obj\Debug\DbViaSocketClient.pdb

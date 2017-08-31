@@ -1,0 +1,6 @@
+E:\DoAn3-Source\Socket_Asyn\SocketServer\bin\Debug\SocketServer.exe
+E:\DoAn3-Source\Socket_Asyn\SocketServer\bin\Debug\SocketServer.pdb
+E:\DoAn3-Source\Socket_Asyn\SocketServer\obj\Debug\SocketServer.Form1.resources
+E:\DoAn3-Source\Socket_Asyn\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+E:\DoAn3-Source\Socket_Asyn\SocketServer\obj\Debug\SocketServer.exe
+E:\DoAn3-Source\Socket_Asyn\SocketServer\obj\Debug\SocketServer.pdb

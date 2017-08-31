@@ -1,0 +1,5 @@
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.dll
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\bin\Debug\Communication.Sockets.Core.pdb
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.csprojResolveAssemblyReference.cache
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.dll
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\Communication.Sockets.Core\obj\Debug\Communication.Sockets.Core.pdb

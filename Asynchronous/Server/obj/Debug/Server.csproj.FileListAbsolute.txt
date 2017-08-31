@@ -1,0 +1,7 @@
+D:\NetDone\NetworkProgramming\Asynchronous\Server\bin\Debug\Asynchronous.Server.exe.config
+D:\NetDone\NetworkProgramming\Asynchronous\Server\bin\Debug\Asynchronous.Server.exe
+D:\NetDone\NetworkProgramming\Asynchronous\Server\bin\Debug\Asynchronous.Server.pdb
+D:\NetDone\NetworkProgramming\Asynchronous\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\NetDone\NetworkProgramming\Asynchronous\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\Asynchronous\Server\obj\Debug\Asynchronous.Server.exe
+D:\NetDone\NetworkProgramming\Asynchronous\Server\obj\Debug\Asynchronous.Server.pdb

@@ -1,0 +1,11 @@
+D:\SOCKETS\DbViaSocket\DbViaSocketServer\bin\Debug\SocketServer.exe.config
+D:\SOCKETS\DbViaSocket\DbViaSocketServer\obj\Debug\SocketServer.exe
+D:\SOCKETS\DbViaSocket\DbViaSocketServer\obj\Debug\SocketServer.pdb
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketServer\bin\Debug\SocketServer.exe.config
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketServer\bin\Debug\SocketServer.exe
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketServer\bin\Debug\SocketServer.pdb
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketServer\obj\Debug\SocketServer.SocketServer.resources
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketServer\obj\Debug\DbViaSocketServer.csproj.GenerateResource.Cache
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketServer\obj\Debug\SocketServer.exe
+D:\Projects\SOCKETS\DbViaSocket\DbViaSocketServer\obj\Debug\SocketServer.pdb

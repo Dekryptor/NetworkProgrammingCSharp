@@ -1,0 +1,6 @@
+D:\NetDone\NetworkProgramming\TCP\Client\bin\Debug\TCPClient.exe
+D:\NetDone\NetworkProgramming\TCP\Client\bin\Debug\TCPClient.pdb
+D:\NetDone\NetworkProgramming\TCP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\TCP\Client\obj\Debug\TCPClient.exe
+D:\NetDone\NetworkProgramming\TCP\Client\obj\Debug\TCPClient.pdb
+D:\NetDone\NetworkProgramming\TCP\Client\bin\Debug\TCPClient.exe.config

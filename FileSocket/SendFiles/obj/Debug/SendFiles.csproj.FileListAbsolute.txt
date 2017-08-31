@@ -1,0 +1,17 @@
+E:\DoAn3-Source\FileSocket\SendFiles\SendFiles\bin\Debug\SendFiles.exe
+E:\DoAn3-Source\FileSocket\SendFiles\SendFiles\bin\Debug\SendFiles.pdb
+E:\DoAn3-Source\FileSocket\SendFiles\SendFiles\obj\Debug\SendFiles.csprojResolveAssemblyReference.cache
+E:\DoAn3-Source\FileSocket\SendFiles\SendFiles\obj\Debug\SendFiles.Form1.resources
+E:\DoAn3-Source\FileSocket\SendFiles\SendFiles\obj\Debug\SendFiles.Properties.Resources.resources
+E:\DoAn3-Source\FileSocket\SendFiles\SendFiles\obj\Debug\SendFiles.csproj.GenerateResource.Cache
+E:\DoAn3-Source\FileSocket\SendFiles\SendFiles\obj\Debug\SendFiles.exe
+E:\DoAn3-Source\FileSocket\SendFiles\SendFiles\obj\Debug\SendFiles.pdb
+D:\NetDone\NetworkProgramming\FileSocket\SendFiles\bin\Debug\SendFiles.exe
+D:\NetDone\NetworkProgramming\FileSocket\SendFiles\bin\Debug\SendFiles.pdb
+D:\NetDone\NetworkProgramming\FileSocket\SendFiles\obj\Debug\SendFiles.csprojResolveAssemblyReference.cache
+D:\NetDone\NetworkProgramming\FileSocket\SendFiles\obj\Debug\SendFiles.Form1.resources
+D:\NetDone\NetworkProgramming\FileSocket\SendFiles\obj\Debug\SendFiles.Properties.Resources.resources
+D:\NetDone\NetworkProgramming\FileSocket\SendFiles\obj\Debug\SendFiles.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\FileSocket\SendFiles\obj\Debug\SendFiles.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\FileSocket\SendFiles\obj\Debug\SendFiles.exe
+D:\NetDone\NetworkProgramming\FileSocket\SendFiles\obj\Debug\SendFiles.pdb

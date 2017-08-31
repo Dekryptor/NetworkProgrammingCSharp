@@ -1,0 +1,10 @@
+D:\NetDone\NetworkProgramming\Sockets\Client\bin\Debug\SocketClient.exe.config
+D:\NetDone\NetworkProgramming\Sockets\Client\bin\Debug\SocketClient.exe
+D:\NetDone\NetworkProgramming\Sockets\Client\bin\Debug\SocketClient.pdb
+D:\NetDone\NetworkProgramming\Sockets\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\NetDone\NetworkProgramming\Sockets\Client\obj\Debug\SocketClient.SocketClient.resources
+D:\NetDone\NetworkProgramming\Sockets\Client\obj\Debug\SocketClient.Properties.Resources.resources
+D:\NetDone\NetworkProgramming\Sockets\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\Sockets\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\Sockets\Client\obj\Debug\SocketClient.exe
+D:\NetDone\NetworkProgramming\Sockets\Client\obj\Debug\SocketClient.pdb

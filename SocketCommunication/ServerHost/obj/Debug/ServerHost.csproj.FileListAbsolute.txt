@@ -1,0 +1,12 @@
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\bin\Debug\ServerHost.exe.config
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\bin\Debug\ServerHost.exe
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\bin\Debug\ServerHost.pdb
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\bin\Debug\SocketCommunication.Core.dll
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\bin\Debug\SocketCommunication.Core.pdb
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\obj\Debug\ServerHost.FrmServer.resources
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\obj\Debug\ServerHost.Properties.Resources.resources
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\obj\Debug\ServerHost.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\obj\Debug\ServerHost.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\obj\Debug\ServerHost.exe
+D:\NetDone\NetworkProgramming\SocketCommunication\ServerHost\obj\Debug\ServerHost.pdb

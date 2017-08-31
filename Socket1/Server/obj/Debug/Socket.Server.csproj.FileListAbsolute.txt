@@ -1,0 +1,12 @@
+D:\Projects\SOCKETS\DbViaSocketServer\Socket.Server\bin\Debug\SocketServer.exe.config
+D:\Projects\SOCKETS\DbViaSocketServer\Socket.Server\obj\Debug\SocketServer.exe
+D:\Projects\SOCKETS\DbViaSocketServer\Socket.Server\obj\Debug\SocketServer.pdb
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Socket.Server\bin\Debug\SocketServer.exe.config
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Socket.Server\bin\Debug\SocketServer.exe
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Socket.Server\bin\Debug\SocketServer.pdb
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Socket.Server\obj\Debug\Socket.Server.csprojResolveAssemblyReference.cache
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Socket.Server\obj\Debug\SocketServer.SocketServer.resources
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Socket.Server\obj\Debug\SocketServer.Properties.Resources.resources
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Socket.Server\obj\Debug\Socket.Server.csproj.GenerateResource.Cache
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Socket.Server\obj\Debug\SocketServer.exe
+C:\Users\thaond\Dropbox\SOCKETS\SocketSolution\Socket.Server\obj\Debug\SocketServer.pdb

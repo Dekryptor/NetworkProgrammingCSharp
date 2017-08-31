@@ -1,0 +1,8 @@
+D:\Projects\SOCKETS\TCP\TCPService\bin\Debug\TCPService.exe
+D:\Projects\SOCKETS\TCP\TCPService\bin\Debug\TCPService.pdb
+D:\Projects\SOCKETS\TCP\TCPService\obj\Debug\TCPService.csprojResolveAssemblyReference.cache
+D:\Projects\SOCKETS\TCP\TCPService\obj\Debug\TCPService.TCPInstaller.resources
+D:\Projects\SOCKETS\TCP\TCPService\obj\Debug\TCPService.TCPService.resources
+D:\Projects\SOCKETS\TCP\TCPService\obj\Debug\TCPService.csproj.GenerateResource.Cache
+D:\Projects\SOCKETS\TCP\TCPService\obj\Debug\TCPService.exe
+D:\Projects\SOCKETS\TCP\TCPService\obj\Debug\TCPService.pdb

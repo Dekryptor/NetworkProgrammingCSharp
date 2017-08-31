@@ -1,0 +1,6 @@
+D:\NetDone\NetworkProgramming\Synchronous\Server\bin\Debug\Synchronous.Server.exe.config
+D:\NetDone\NetworkProgramming\Synchronous\Server\bin\Debug\Synchronous.Server.exe
+D:\NetDone\NetworkProgramming\Synchronous\Server\bin\Debug\Synchronous.Server.pdb
+D:\NetDone\NetworkProgramming\Synchronous\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\Synchronous\Server\obj\Debug\Synchronous.Server.exe
+D:\NetDone\NetworkProgramming\Synchronous\Server\obj\Debug\Synchronous.Server.pdb

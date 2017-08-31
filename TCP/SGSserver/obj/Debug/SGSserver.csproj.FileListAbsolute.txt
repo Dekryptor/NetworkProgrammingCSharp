@@ -1,0 +1,10 @@
+D:\NetDone\NetworkProgramming\TCP\SGSserver\bin\Debug\Server.exe
+D:\NetDone\NetworkProgramming\TCP\SGSserver\bin\Debug\Server.pdb
+D:\NetDone\NetworkProgramming\TCP\SGSserver\obj\Debug\SGSserver.csprojResolveAssemblyReference.cache
+D:\NetDone\NetworkProgramming\TCP\SGSserver\obj\Debug\TransferFile.Server.SGSserverForm.resources
+D:\NetDone\NetworkProgramming\TCP\SGSserver\obj\Debug\TransferFile.Server.Properties.Resources.resources
+D:\NetDone\NetworkProgramming\TCP\SGSserver\obj\Debug\SGSserver.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\TCP\SGSserver\obj\Debug\SGSserver.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\TCP\SGSserver\obj\Debug\Server.exe
+D:\NetDone\NetworkProgramming\TCP\SGSserver\obj\Debug\Server.pdb
+D:\NetDone\NetworkProgramming\TCP\SGSserver\bin\Debug\Server.exe.config

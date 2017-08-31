@@ -1,0 +1,10 @@
+D:\NetDone\NetworkProgramming\DbViaSocket\Server\bin\Debug\DbViaSocketServer.exe.config
+D:\NetDone\NetworkProgramming\DbViaSocket\Server\bin\Debug\DbViaSocketServer.exe
+D:\NetDone\NetworkProgramming\DbViaSocket\Server\bin\Debug\DbViaSocketServer.pdb
+D:\NetDone\NetworkProgramming\DbViaSocket\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\NetDone\NetworkProgramming\DbViaSocket\Server\obj\Debug\DbViaSocketServer.frmServer.resources
+D:\NetDone\NetworkProgramming\DbViaSocket\Server\obj\Debug\DbViaSocketServer.Properties.Resources.resources
+D:\NetDone\NetworkProgramming\DbViaSocket\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\DbViaSocket\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\DbViaSocket\Server\obj\Debug\DbViaSocketServer.exe
+D:\NetDone\NetworkProgramming\DbViaSocket\Server\obj\Debug\DbViaSocketServer.pdb

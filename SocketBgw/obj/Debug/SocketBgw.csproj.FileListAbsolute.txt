@@ -1,0 +1,12 @@
+D:\NetDone\NetworkProgramming\SocketBgw\bin\Debug\AnalysLogs.exe.config
+D:\NetDone\NetworkProgramming\SocketBgw\bin\Debug\AnalysLogs.exe
+D:\NetDone\NetworkProgramming\SocketBgw\bin\Debug\AnalysLogs.pdb
+D:\NetDone\NetworkProgramming\SocketBgw\bin\Debug\DocumentFormat.OpenXml.dll
+D:\NetDone\NetworkProgramming\SocketBgw\bin\Debug\DocumentFormat.OpenXml.xml
+D:\NetDone\NetworkProgramming\SocketBgw\obj\Debug\SocketBgw.csprojResolveAssemblyReference.cache
+D:\NetDone\NetworkProgramming\SocketBgw\obj\Debug\AnalysLogs.frmAnalys.resources
+D:\NetDone\NetworkProgramming\SocketBgw\obj\Debug\AnalysLogs.Properties.Resources.resources
+D:\NetDone\NetworkProgramming\SocketBgw\obj\Debug\SocketBgw.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\SocketBgw\obj\Debug\SocketBgw.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\SocketBgw\obj\Debug\AnalysLogs.exe
+D:\NetDone\NetworkProgramming\SocketBgw\obj\Debug\AnalysLogs.pdb

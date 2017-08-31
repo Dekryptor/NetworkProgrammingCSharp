@@ -1,0 +1,9 @@
+D:\NetDone\NetworkProgramming\Sockets\obj\Debug\Socktes.ConnectSocket.resources
+D:\NetDone\NetworkProgramming\Sockets\obj\Debug\Socktes.ParserSocket.resources
+D:\NetDone\NetworkProgramming\Sockets\obj\Debug\Sockets.csproj.GenerateResource.Cache
+D:\NetDone\NetworkProgramming\Sockets\obj\Debug\Sockets.csproj.CoreCompileInputs.cache
+D:\NetDone\NetworkProgramming\Sockets\obj\Debug\Socktes.dll
+D:\NetDone\NetworkProgramming\Sockets\obj\Debug\Socktes.pdb
+D:\NetDone\NetworkProgramming\Sockets\bin\Debug\Socktes.dll
+D:\NetDone\NetworkProgramming\Sockets\bin\Debug\Socktes.pdb
+D:\NetDone\NetworkProgramming\Sockets\obj\Debug\Sockets.csprojResolveAssemblyReference.cache

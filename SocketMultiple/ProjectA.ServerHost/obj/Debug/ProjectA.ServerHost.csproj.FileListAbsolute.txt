@@ -1,0 +1,12 @@
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe.config
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.exe
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Aviad.ProjectA.ServerHost.pdb
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.dll
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\log4net.dll
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\bin\Debug\Communication.Sockets.Core.pdb
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\ProjectA.ServerHost.csprojResolveAssemblyReference.cache
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\ProjectA.ServerHost.FrmServer.resources
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.Properties.Resources.resources
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\ProjectA.ServerHost.csproj.GenerateResource.Cache
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.exe
+E:\DoAn3-Source\Sockets Multiple Clients - Bytes\ProjectA.ServerHost\obj\Debug\Aviad.ProjectA.ServerHost.pdb
