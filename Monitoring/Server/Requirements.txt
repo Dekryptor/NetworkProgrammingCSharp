@@ -1,0 +1,9 @@
+﻿Bài toán: Viết ứng dụng server-client để monitoring trạng thái của server với các thông số sau:
+- Kiểm tra server up down every second.
+- Kiểm tra trạng thái sử dụng CPU, RAM, Hard Disk every second.
+
+Yêu cầu:
+- Sử dụng C# và .Net Framework 4.6
+- Sử dụng WPF cho Client.
+- Sử dụng multithread để tạo những connections concurrent.
+- Sử dụng TCP/IP cho giao thức kết nối giữa client và server.
