@@ -5,3 +5,6 @@ D:\NetDone\NetworkProgramming\SocketConsole\obj\Debug\SocketConsole.csproj.CoreC
 D:\NetDone\NetworkProgramming\SocketConsole\obj\Debug\SocketConsole.exe
 D:\NetDone\NetworkProgramming\SocketConsole\obj\Debug\SocketConsole.pdb
 D:\NetDone\NetworkProgramming\SocketConsole\bin\Debug\SocketConsole.exe.config
+E:\Projetcs\NetworkProgrammingCSharp\SocketConsole\bin\Debug\SocketConsole.exe.config
+E:\Projetcs\NetworkProgrammingCSharp\SocketConsole\obj\Debug\SocketConsole.exe
+E:\Projetcs\NetworkProgrammingCSharp\SocketConsole\obj\Debug\SocketConsole.pdb

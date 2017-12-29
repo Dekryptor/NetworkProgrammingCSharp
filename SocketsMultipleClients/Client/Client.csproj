@@ -108,9 +108,9 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SocketCore\SocketCore.csproj">
+    <ProjectReference Include="..\..\SocketMultiple\Communication.Sockets.Core\Communication.Sockets.Core.csproj">
       <Project>{dc7b20d0-b1d4-40e1-af98-7c4db3291a8d}</Project>
-      <Name>SocketCore</Name>
+      <Name>Communication.Sockets.Core</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

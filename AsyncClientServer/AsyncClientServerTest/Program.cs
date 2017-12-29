@@ -12,14 +12,14 @@ namespace AsyncClientServerTest
     {
         static void Main(string[] args)
         {
-            var config = new Form2();
+            var config = new OptionForm();
             config.ShowDialog();
 
-            var s1 = new Form1(false, config.startServer(), config.serverRandomData(), false, config.serverAppend());
+            var s1 = new MainForm(false, config.startServer(), config.serverRandomData(), false, config.serverAppend());
             s1.Show();
             for (int i = 0; i < config.numberofclient(); ++i)
             {
-                new Form1(true, config.startClient(), config.clientRandomData(), config.clientDisconnect(),config.clientAppend()).Show();
+                new MainForm(true, config.startClient(), config.clientRandomData(), config.clientDisconnect(),config.clientAppend()).Show();
             }
             s1.BringToFront();
 

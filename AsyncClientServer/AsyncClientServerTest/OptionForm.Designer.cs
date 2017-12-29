@@ -1,6 +1,6 @@
 ﻿namespace AsyncClientServerTest
 {
-    partial class Form2
+    partial class OptionForm
     {
         /// <summary>
         /// Required designer variable.

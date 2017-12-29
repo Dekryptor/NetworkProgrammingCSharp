@@ -14,7 +14,7 @@ namespace AsyncClientServerTest
 	internal delegate void AppendTextDelegate(string msg);
 	internal delegate void HandleTitleChange(string msg);
 	
-	public partial class Form1 : Form
+	public partial class MainForm : Form
 	{
 
 		private const string AddressTest = "127.0.0.1";
@@ -28,7 +28,7 @@ namespace AsyncClientServerTest
 
 		private bool isClient;
 
-		public Form1(bool client, bool enableTimer, bool randomData, bool disconnect, bool append)
+		public MainForm(bool client, bool enableTimer, bool randomData, bool disconnect, bool append)
 		{
 			InitializeComponent();
 			this.Text = client ? "client" : "Server";

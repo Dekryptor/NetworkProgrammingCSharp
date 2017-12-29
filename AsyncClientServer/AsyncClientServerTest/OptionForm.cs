@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AsyncClientServerTest
 {
-    public partial class Form2 : Form
+    public partial class OptionForm : Form
     {
-        public Form2()
+        public OptionForm()
         {
             InitializeComponent();
         }
