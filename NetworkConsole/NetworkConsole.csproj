@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{529CAB9E-B59F-41CF-8A01-FCB3E823CACC}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>NetworkConsole</RootNamespace>
+    <AssemblyName>NetworkConsole</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddObject.cs" />
+    <Compile Include="AddProperty.cs" />
+    <Compile Include="AddressSample.cs" />
+    <Compile Include="Advertise.cs" />
+    <Compile Include="AdvPing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsyncResolve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsyncTcpClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsyncTcpSrvr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BadBroadcast.cs" />
+    <Compile Include="BadTcpClient.cs" />
+    <Compile Include="BadTcpSrvr.cs" />
+    <Compile Include="BadUdpClient.cs" />
+    <Compile Include="BestUdpClient.cs" />
+    <Compile Include="BetterDataRcvr.cs" />
+    <Compile Include="BetterDataSender.cs" />
+    <Compile Include="BetterdUdpClient.cs" />
+    <Compile Include="BinaryDataRcvr.cs" />
+    <Compile Include="BinaryDataSender.cs" />
+    <Compile Include="BinaryDataTest.cs" />
+    <Compile Include="BinaryNetworkByteOrder.cs" />
+    <Compile Include="BinarySerializer.cs" />
+    <Compile Include="BinaryUdpClient.cs" />
+    <Compile Include="BinaryUdpSrvr.cs" />
+    <Compile Include="BindObject.cs" />
+    <Compile Include="Broadcast.cs" />
+    <Compile Include="CardGrab.cs" />
+    <Compile Include="CiscoRouter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CredCacheTest.cs" />
+    <Compile Include="CredTest.cs" />
+    <Compile Include="CryptoDataRcvr.cs" />
+    <Compile Include="CryptoDataSender.cs" />
+    <Compile Include="CryptoTest.cs" />
+    <Compile Include="DeleteObject.cs" />
+    <Compile Include="DNSName.cs" />
+    <Compile Include="DownloadFileTest.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="EmployeeClient.cs" />
+    <Compile Include="EmployeeSrvr.cs" />
+    <Compile Include="ExceptionUdpClient.cs" />
+    <Compile Include="FancyMailTest.cs" />
+    <Compile Include="FindDNSServers.cs" />
+    <Compile Include="FindMask.cs" />
+    <Compile Include="FixedTcpClient.cs" />
+    <Compile Include="FixedTcpSrvr.cs" />
+    <Compile Include="GetDNSAddressInfo.cs" />
+    <Compile Include="GetDNSHostInfo.cs" />
+    <Compile Include="GetProc.cs" />
+    <Compile Include="GetProperties.cs" />
+    <Compile Include="GetResolveInfo.cs" />
+    <Compile Include="GetThreads.cs" />
+    <Compile Include="ICMP.cs" />
+    <Compile Include="IPEndPointSample.cs" />
+    <Compile Include="ListObjects.cs" />
+    <Compile Include="ListProcs.cs" />
+    <Compile Include="ListThreads.cs" />
+    <Compile Include="MacAddress.cs" />
+    <Compile Include="MailAttachTest.cs" />
+    <Compile Include="MathClass.cs" />
+    <Compile Include="MathClient.cs" />
+    <Compile Include="MathServer.cs" />
+    <Compile Include="ModifyProperty.cs" />
+    <Compile Include="MulticastChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultiRecv.cs" />
+    <Compile Include="MultiSend.cs" />
+    <Compile Include="NetworkOrderClient.cs" />
+    <Compile Include="NetworkOrderSrvr.cs" />
+    <Compile Include="NetworkStreamTcpClient.cs" />
+    <Compile Include="NewMathClient.cs" />
+    <Compile Include="NewMultiSend.cs" />
+    <Compile Include="NewTcpChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OddUdpClient.cs" />
+    <Compile Include="OpenReadTest.cs" />
+    <Compile Include="OpenWriteTest.cs" />
+    <Compile Include="PickyTcpClient.cs" />
+    <Compile Include="PickyTcpListener.cs" />
+    <Compile Include="PopCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomStringGenerator.cs" />
+    <Compile Include="RecvBroadcst.cs" />
+    <Compile Include="RenameObject.cs" />
+    <Compile Include="ResponseHeadersTest.cs" />
+    <Compile Include="RetryUdpClient.cs" />
+    <Compile Include="SecurityHelper.cs" />
+    <Compile Include="SelectTcpClient.cs" />
+    <Compile Include="SelectTcpSrvr.cs" />
+    <Compile Include="SimplePing.cs" />
+    <Compile Include="SimpleSearch.cs" />
+    <Compile Include="SimpleSNMP.cs" />
+    <Compile Include="SimpleTcpClient.cs" />
+    <Compile Include="SimpleTcpSrvr.cs" />
+    <Compile Include="SimpleUdpClient.cs" />
+    <Compile Include="SimpleUdpSrvr.cs" />
+    <Compile Include="SNMP.cs" />
+    <Compile Include="SoapTest.cs" />
+    <Compile Include="SocketExcept.cs" />
+    <Compile Include="SockProp.cs" />
+    <Compile Include="StreamTcpClient.cs" />
+    <Compile Include="StreamTcpSrvr.cs" />
+    <Compile Include="TcpChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TcpClientSample.cs" />
+    <Compile Include="TcpListenerSample.cs" />
+    <Compile Include="TcpPollSrvr.cs" />
+    <Compile Include="TestLog.cs" />
+    <Compile Include="TestUdpClient.cs" />
+    <Compile Include="TestUdpSrvr.cs" />
+    <Compile Include="ThreadedTcpSrvr.cs" />
+    <Compile Include="ThreadPoolSample.cs" />
+    <Compile Include="ThreadPoolTcpSrvr.cs" />
+    <Compile Include="ThreadSample.cs" />
+    <Compile Include="TimeoutUdpClient.cs" />
+    <Compile Include="TraceRoute.cs" />
+    <Compile Include="UdpClientMultiRecv.cs" />
+    <Compile Include="UdpClientMultiSend.cs" />
+    <Compile Include="UdpClientSample.cs" />
+    <Compile Include="UdpSrvrSample.cs" />
+    <Compile Include="UploadDataTest.cs" />
+    <Compile Include="UploadValuesTest.cs" />
+    <Compile Include="VarTcpClient.cs" />
+    <Compile Include="VarTcpSrvr.cs" />
+    <Compile Include="WebGet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WMICardGrab.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MathService.asmx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
